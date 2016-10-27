@@ -1,0 +1,22 @@
+body {
+    font-family: 'Abel', sans-serif;
+    font-size: 16px;    
+}
+
+h1 {
+    font-size: 52px;
+}
+
+h2 {
+    font-size: 36px;
+}
+/*___________________*/
+Meadia Queries
+/*-------------------*/
+
+@media (min-width:769px) {
+    
+    .contianer {
+        width:90%
+    }
+}
